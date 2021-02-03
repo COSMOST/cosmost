@@ -1,1 +1,1 @@
-Context-aware mobile storage tracing framework.
+Context-sensitive mobile storage tracing framework.
