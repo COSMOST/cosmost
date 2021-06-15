@@ -1,7 +1,6 @@
 Context-aware mobile storage tracing framework.
 
-We are cleaning up the code. We will post the tool source code and our dataset shortly. Thanks!
-
+We will post our dataset shortly. Thanks!
 
 * If you use this work for your research, we would deep appreciate a citation to our SIGMETRICS '21 [Paper](https://doi.org/10.1145/3460095)
 
